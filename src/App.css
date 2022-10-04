@@ -15,7 +15,7 @@ main {
   display: flex;
   align-items: center;
   height: 65px;
-  background: linear-gradient(90deg, #672280 1.18%, #A626D3 100%);
+  background: linear-gradient(90deg, #a8abf3 1.18%, #c0a1cb 100%);
   color: white;
   padding: 20px;
 }
@@ -53,7 +53,7 @@ main {
   grid-column: 1 / -1;
   font-family: "Karla", sans-serif;
   border-radius: 5px;
-  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  background: linear-gradient(90.41deg, #a8abf3 1.14%, #c0a1cb 100%);
   color: white;
   border: none;
   cursor: pointer;
